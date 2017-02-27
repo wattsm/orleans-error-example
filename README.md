@@ -1,6 +1,7 @@
 # orleans-error-example
 
 Steps taken to create solution:
+
 1. Create empty solution
 2. Add grains project, set framework version to v4.6.1
 3. Add interfaces project, set framework version to v4.6.1
