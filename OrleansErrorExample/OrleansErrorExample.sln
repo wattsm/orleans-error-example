@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrleansErrorExample.Grains"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrleansErrorExample.Interfaces", "OrleansErrorExample.Interfaces\OrleansErrorExample.Interfaces.csproj", "{C68314C7-E36B-4779-8654-C5D547D7F900}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrleansExample.Server", "OrleansExample.Server\OrleansExample.Server.csproj", "{4734559E-E614-497E-9717-BEF8767EE90B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C68314C7-E36B-4779-8654-C5D547D7F900}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C68314C7-E36B-4779-8654-C5D547D7F900}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C68314C7-E36B-4779-8654-C5D547D7F900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4734559E-E614-497E-9717-BEF8767EE90B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4734559E-E614-497E-9717-BEF8767EE90B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4734559E-E614-497E-9717-BEF8767EE90B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4734559E-E614-497E-9717-BEF8767EE90B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
